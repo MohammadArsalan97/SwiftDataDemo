@@ -3,4 +3,5 @@ Guide to seamless storage, retrieval, and management of data in Swift applicatio
 
 # Requirements
 Xcode >= 15.0.0
+
 iOS >= 17.0
